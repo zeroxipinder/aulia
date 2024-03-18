@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://s2adminkes.uniqhba.ac.id/aulia/sitemap.xml
+Sitemap: https://s2adminkes.uniqhba.ac.id/shifa/sitemap.xml
